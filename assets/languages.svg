@@ -37,7 +37,6 @@
 <text x="250" y="292" text-anchor="end" font-size="13" font-weight="800" fill="#7a8b99" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace">0%</text>
 <rect x="290" y="282" width="480" height="10" rx="5" fill="#fff" fill-opacity=".08"/>
 <rect x="290" y="282" width="8" height="10" rx="5" fill="#7a8b99" filter="url(#glow)"/>
-<text x="826" y="342" text-anchor="end" font-size="9" fill="#9d8ec4" opacity=".7" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace">profile.dev</text>
 </g>
 <rect x=".75" y=".75" width="838.5" height="350.5" rx="20" fill="none" stroke="url(#ln)" stroke-opacity=".5" stroke-width="1.5"/>
 </svg>

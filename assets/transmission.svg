@@ -18,7 +18,6 @@
 <circle cx="28" cy="26" r="15" fill="#120a26" stroke="#c084fc" stroke-opacity=".7"/><text x="28" y="31" text-anchor="middle" font-size="14" font-weight="700" fill="#f5ebff">G</text>
 <text x="54" y="21" font-size="9" fill="#c084fc" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace">GitHub</text>
 <text x="54" y="38" font-size="14" font-weight="700" fill="#f5ebff">@agusbalvarez</text></g>
-<text x="826" y="140" text-anchor="end" font-size="9" fill="#9d8ec4" opacity=".7" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace">profile.dev</text>
 </g>
 <rect x=".75" y=".75" width="838.5" height="148.5" rx="20" fill="none" stroke="url(#ln)" stroke-opacity=".5" stroke-width="1.5"/>
 </svg>
