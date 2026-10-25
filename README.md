@@ -1,6 +1,6 @@
 # Hello 👋, I'm Agustina Belen Alvarez
 
-### Software Development Student | Java · Spring Boot · Python · AWS
+### Software Development Student | Java · Spring Boot · Python · JavaScript
 
 ---
 
@@ -8,13 +8,24 @@
 
 I'm a Software Development student at **ITU Mendoza**, focused on building real-world projects and understanding how things work behind the scenes.
 
-I enjoy combining technical skills with creativity, especially when working on design and user experience. I like learning by doing, working in teams, and facing real challenges.
+I enjoy combining technical skills with creativity, especially when working on design and user experience. I like learning by doing, working in teams, and facing real challenges. I have a strong foundation in backend technologies (Java, Spring Boot, Python) and I'm currently expanding my skills into modern web development with JavaScript, Firebase, and E2E testing.
 
 ---
 
-## 🚀 Current project
+## 🚀 Featured Projects
 
-**FastQuiz** — An AI-powered study tool that generates quizzes and summaries from uploaded files using OCR (Tesseract) and a language model (LLaMA via Groq API). Built as a team academic project.
+### 🛒 Tienda Demo (Full-Stack Web App)
+An e-commerce catalog and admin panel built with vanilla JavaScript and Firebase.
+- **Key features:** Real-time stock validation, persistent shopping cart, secure admin dashboard (CRUD for products, categories, and banners), and atomic database transactions.
+- **Security & Testing:** Implemented XSS protection and a complete E2E test suite (40 tests) using Playwright and Firebase Emulators.
+- **Tech Stack:** JavaScript, Firebase (Firestore & Auth), Cloudinary, Playwright.
+
+[View Repository](https://github.com/AgusBAlvarez/tienda-demo) · [Live Demo](https://tienda-demo-5c115.web.app/catalogo/)
+
+<br>
+
+### 🧠 FastQuiz (Academic Project)
+An AI-powered study tool that generates quizzes and summaries from uploaded files using OCR (Tesseract) and a language model (LLaMA via Groq API). Built as a team academic project.
 
 `Python` `Node.js` `MongoDB` `LLaMA` `Groq API` `Tesseract OCR`
 
@@ -33,8 +44,9 @@ I enjoy combining technical skills with creativity, especially when working on d
 ### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -48,10 +60,10 @@ I enjoy combining technical skills with creativity, especially when working on d
 
 ## 🌱 Currently growing in
 
+- Frontend development (Vanilla JS, Firebase)
+- Test Automation (Playwright)
 - Backend development with Java and Spring Boot
 - Cloud fundamentals (AWS Cloud Foundations)
-- REST API design and integration
-- AI-powered application development
 
 ---
 
