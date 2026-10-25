@@ -1,5 +1,4 @@
-"""Genera los SVG del README de perfil (Repo Galaxy, Brightest stars, Language Stack,
-Transmission) con datos de la API de GitHub y actualiza la frase de números del README.
+"""Genera los SVG del README de perfil con datos de la API de GitHub y actualiza la frase de números del README.
 Proyectos destacados: manuales, desde config.json. Solo stdlib."""
 import json, os, random, math, html, re, urllib.request, datetime
 
@@ -117,7 +116,6 @@ def frame(w, h, body, seed=1, stars=30):
 <circle cx="{w*0.12}" cy="{h*0.1}" r="{max(w,h)*0.35}" fill="url(#orb1)"/>
 <circle cx="{w*0.9}" cy="{h*0.95}" r="{max(w,h)*0.3}" fill="url(#orb2)"/>
 {s}{body}
-<text x="{w-14}" y="{h-10}" text-anchor="end" font-size="9" fill="{MUTED}" opacity=".7" font-family="{MONO}">profile.dev</text>
 </g>
 <rect x=".75" y=".75" width="{w-1.5}" height="{h-1.5}" rx="20" fill="none" stroke="url(#ln)" stroke-opacity=".5" stroke-width="1.5"/>
 </svg>'''
@@ -171,7 +169,7 @@ def galaxy(d):
 <circle cx="{cx}" cy="{cy}" r="38" fill="url(#core)"><animate attributeName="r" values="34;42;34" dur="4s" repeatCount="indefinite"/></circle>
 <circle cx="{cx}" cy="{cy}" r="3" fill="#fff"/>
 {labels}
-<text x="52" y="68" font-size="10" letter-spacing="3" fill="{AC2}" font-family="{MONO}">REPO GALAXY</text>
+<text x="52" y="68" font-size="10" letter-spacing="3" fill="{AC2}" font-family="{MONO}">SOFTWARE DEVELOPER</text>
 <text x="52" y="102" font-size="26" font-weight="700" fill="{TX}">@{esc(USER)}</text>
 <text x="52" y="126" font-size="12" font-weight="600" fill="{AC2}" font-family="{MONO}">{stats["stars"]} stars · {nrepos} repositories</text>
 <text x="52" y="150" font-size="10.5" fill="{MUTED}">Each star is a repository, sized by its stars.</text>
