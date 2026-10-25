@@ -2,6 +2,16 @@
 
 ### Software Development Student | Java · Spring Boot · Python · JavaScript
 
+<div align="center">
+
+<img src="./assets/galaxy.svg" alt="Repo Galaxy" />
+
+<!--STATS-->
+**7** public repositories, **0** stars, **96** contributions in the last year, a longest streak of **3** days and **1** follower.
+<!--/STATS-->
+
+</div>
+
 ---
 
 ## 💻 About me
@@ -31,7 +41,23 @@ An AI-powered study tool that generates quizzes and summaries from uploaded file
 
 ---
 
+## 🌌 Brightest stars
+
+<div align="center">
+
+<img src="./assets/projects.svg" alt="Repositories" />
+
+</div>
+
+---
+
 ## 🧠 Technologies
+
+<div align="center">
+
+<img src="./assets/languages.svg" alt="Language Stack" />
+
+</div>
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -69,11 +95,17 @@ An AI-powered study tool that generates quizzes and summaries from uploaded file
 
 ## 📊 GitHub Stats
 
+<details>
+<summary>More stats</summary>
+<br>
+
 ![Agustina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgusBAlvarez&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusBAlvarez&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AgusBAlvarez&theme=tokyonight&hide_border=true)
+
+</details>
 
 ---
 
@@ -96,3 +128,9 @@ An AI-powered study tool that generates quizzes and summaries from uploaded file
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinabelenalvarez)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinaalvarezb8@gmail.com)
+
+<div align="center">
+
+<a href="https://github.com/agusbalvarez"><img src="./assets/transmission.svg" alt="GitHub @agusbalvarez" /></a>
+
+</div>

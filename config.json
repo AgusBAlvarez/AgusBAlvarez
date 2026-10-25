@@ -1,0 +1,52 @@
+{
+  "username": "agusbalvarez",
+  "name": "Agustina Alvarez",
+  "initials": "AA",
+  "role": "Software Development Student | Java · Spring Boot · Python · JavaScript",
+  "projects": [
+    {
+      "repo": "AgusBAlvarez/ProyectoCineAlvarez",
+      "description": "Integra el uso de Spring Boot.",
+      "language": "Java"
+    },
+    {
+      "repo": "AgusBAlvarez/spring-boot-practicas",
+      "description": "Prácticas con modelo de capas.",
+      "language": "Java"
+    },
+    {
+      "repo": "AgusBAlvarez/spring-boot-tutorial",
+      "description": "Primer TD sobre Spring Boot.",
+      "language": "Java"
+    },
+    {
+      "repo": "AgusBAlvarez/tienda-demo",
+      "description": "E-commerce catalog and admin panel (JS + Firebase).",
+      "language": "JavaScript"
+    },
+    {
+      "repo": "AgusBAlvarez/ProyectoDemoAlvarez",
+      "description": "Proyecto demo.",
+      "language": "JavaScript"
+    },
+    {
+      "repo": "AgusBAlvarez/AgusBAlvarez",
+      "description": "Mi README de perfil.",
+      "language": "JavaScript"
+    }
+  ],
+  "fallback_stats": {
+    "repos": 7,
+    "stars": 0,
+    "contributions": 96,
+    "streak": 3,
+    "followers": 1
+  },
+  "fallback_languages": {
+    "JavaScript": 42,
+    "HTML": 26,
+    "Java": 20,
+    "CSS": 12,
+    "Dockerfile": 0
+  }
+}
