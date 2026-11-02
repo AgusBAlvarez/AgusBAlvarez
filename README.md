@@ -7,7 +7,7 @@
 <img src="./assets/galaxy.svg" alt="Repo Galaxy" />
 
 <!--STATS-->
-**10** public repositories, **0** stars, **103** contributions in the last year, a longest streak of **3** days and **1** follower.
+**11** public repositories, **0** stars, **107** contributions in the last year, a longest streak of **3** days and **1** follower.
 <!--/STATS-->
 
 </div>
