@@ -140,7 +140,7 @@ I work in teams with **Git**, **issues and pull requests**, **continuous integra
 <br>
 
 <!--STATS-->
-**11** public repositories, **0** stars, **213** contributions in the last year, a longest streak of **7** days and **1** follower.
+**11** public repositories, **0** stars, **218** contributions in the last year, a longest streak of **7** days and **1** follower.
 <!--/STATS-->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AgusBAlvarez&show_icons=true&theme=shadow_red&title_color=a855f7&icon_color=a855f7&text_color=ddd6fe&bg_color=1e1b4b&hide_border=true)
