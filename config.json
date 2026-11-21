@@ -2,44 +2,39 @@
   "username": "agusbalvarez",
   "name": "Agustina Alvarez",
   "initials": "AA",
-  "role": "Software Development Student | Java · Spring Boot · Python · JavaScript",
+  "role": "Software Development Student | Java · Spring Boot · Python · JavaScript · Flutter",
   "projects": [
-    {
-      "repo": "AgusBAlvarez/ProyectoCineAlvarez",
-      "description": "Integra el uso de Spring Boot.",
-      "language": "Java"
-    },
-    {
-      "repo": "AgusBAlvarez/spring-boot-practicas",
-      "description": "Prácticas con modelo de capas.",
-      "language": "Java"
-    },
-    {
-      "repo": "AgusBAlvarez/spring-boot-tutorial",
-      "description": "Primer TD sobre Spring Boot.",
-      "language": "Java"
-    },
     {
       "repo": "AgusBAlvarez/tienda-demo",
       "description": "E-commerce catalog and admin panel (JS + Firebase).",
       "language": "JavaScript"
     },
     {
-      "repo": "AgusBAlvarez/ProyectoDemoAlvarez",
-      "description": "Proyecto demo.",
-      "language": "JavaScript"
+      "repo": "AgusBAlvarez/ProyectoCineAlvarez",
+      "description": "Cinema project built with Spring Boot.",
+      "language": "Java"
+    },
+    {
+      "repo": "AgusBAlvarez/spring-boot-practicas",
+      "description": "Layered-architecture practice with Spring Boot.",
+      "language": "Java"
+    },
+    {
+      "repo": "AgusBAlvarez/spring-boot-tutorial",
+      "description": "First Spring Boot course assignment.",
+      "language": "Java"
     },
     {
       "repo": "AgusBAlvarez/AgusBAlvarez",
-      "description": "Mi README de perfil.",
+      "description": "My profile README.",
       "language": "JavaScript"
     }
   ],
   "fallback_stats": {
-    "repos": 7,
+    "repos": 11,
     "stars": 0,
-    "contributions": 96,
-    "streak": 3,
+    "contributions": 213,
+    "streak": 7,
     "followers": 1
   },
   "fallback_languages": {
