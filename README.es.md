@@ -31,8 +31,8 @@ Soy estudiante de Desarrollo de Software en **ITU Mendoza**. Me gusta construir 
 Tienda online completa con **panel de empleado** (carga de productos, categorías y banners) y **vista de cliente** (catálogo y carrito, al estilo Mercado Libre u OnCity). Es una demo a propósito: sirve de base para adaptarla a cualquier rubro.
 
 <p align="center">
-  <img src="assets/media/shop-customer.gif" width="520" alt="Vista de cliente de la Tienda Demo">
-  <img src="assets/media/shop-admin.png" width="320" alt="Panel de empleado">
+  <img src="assets/media/tienda-cliente.gif" width="520" alt="Vista de cliente de la Tienda Demo">
+  <img src="assets/media/tienda-admin.png" width="320" alt="Panel de empleado">
 </p>
 
 - **Lo técnico:** validación de stock en tiempo real, carrito persistente, transacciones atómicas, protección contra XSS y **40 tests end-to-end** automatizados.
@@ -47,8 +47,8 @@ Tienda online completa con **panel de empleado** (carga de productos, categoría
 Ingresás las medidas de un mueble, elegís una plantilla y lo ves en **3D**. Si te convence, la app genera el **despiece**: la lista de piezas a cortar con sus medidas.
 
 <p align="center">
-  <img src="assets/media/configurator.gif" width="520" alt="Configurador 3D de muebles">
-  <img src="assets/media/cutlist.png" width="320" alt="Despiece generado">
+  <img src="assets/media/configurador.gif" width="520" alt="Configurador 3D de muebles">
+  <img src="assets/media/despiece.png" width="320" alt="Despiece generado">
 </p>
 
 - **Mi parte:** el módulo de **despiece**. El equipo se dividió en componentes, modelado 3D, nube y seguridad, y despiece.
@@ -64,9 +64,8 @@ Ingresás las medidas de un mueble, elegís una plantilla y lo ves en **3D**. Si
 App móvil para **descongestionar el tránsito del centro en hora pico**: muestra el mapa con el estado del tránsito, calcula rutas y permite programar alarmas.
 
 <p align="center">
-  <img src="assets/media/ecoruta-map.png" width="220" alt="Mapa de tránsito">
-  <img src="assets/media/ecoruta-route.png" width="220" alt="Ruta calculada">
-  <img src="assets/media/ecoruta-alarm.png" width="220" alt="Alarmas">
+  <img src="assets/media/ecoruta-mapa.png" width="260" alt="Mapa de tránsito">
+  <img src="assets/media/ecoruta-alarma.png" width="260" alt="Alarmas">
 </p>
 
 - **Mi parte:** programadora del equipo; trabajamos en conjunto sobre todo el código.

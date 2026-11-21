@@ -31,8 +31,8 @@ I'm a Software Development student at **ITU Mendoza**. I like building real proj
 A complete online store with an **employee panel** (manage products, categories and banners) and a **customer view** (catalog and cart, similar to Mercado Libre). It is a demo on purpose: it can be adapted to any kind of business.
 
 <p align="center">
-  <img src="assets/media/shop-customer.gif" width="520" alt="Customer view of the Demo Shop">
-  <img src="assets/media/shop-admin.png" width="320" alt="Employee panel">
+  <img src="assets/media/tienda-cliente.gif" width="520" alt="Customer view of the Demo Shop">
+  <img src="assets/media/tienda-admin.png" width="320" alt="Employee panel">
 </p>
 
 - **Under the hood:** real-time stock validation, persistent cart, atomic database transactions, XSS protection and **40 automated end-to-end tests**.
@@ -47,8 +47,8 @@ A complete online store with an **employee panel** (manage products, categories 
 Enter the dimensions of a piece of furniture, pick a template and see it in **3D**. If you like the result, the app generates the **cut list**: every piece to cut, with its measurements.
 
 <p align="center">
-  <img src="assets/media/configurator.gif" width="520" alt="3D furniture configurator">
-  <img src="assets/media/cutlist.png" width="320" alt="Generated cut list">
+  <img src="assets/media/configurador.gif" width="520" alt="3D furniture configurator">
+  <img src="assets/media/despiece.png" width="320" alt="Generated cut list">
 </p>
 
 - **My part:** the **cut list** module. The team split the work into components, 3D modeling, cloud and security, and cut list.
@@ -64,9 +64,8 @@ Enter the dimensions of a piece of furniture, pick a template and see it in **3D
 A mobile app to **reduce downtown traffic at rush hour**: it shows a live traffic map, calculates routes and lets you set alarms.
 
 <p align="center">
-  <img src="assets/media/ecoruta-map.png" width="220" alt="Traffic map">
-  <img src="assets/media/ecoruta-route.png" width="220" alt="Calculated route">
-  <img src="assets/media/ecoruta-alarm.png" width="220" alt="Alarms">
+  <img src="assets/media/ecoruta-mapa.png" width="260" alt="Traffic map">
+  <img src="assets/media/ecoruta-alarma.png" width="260" alt="Alarms">
 </p>
 
 - **My part:** team developer. We worked together across the whole codebase.
@@ -141,7 +140,7 @@ I work in teams with **Git**, **issues and pull requests**, **continuous integra
 <br>
 
 <!--STATS-->
-**11** public repositories, **0** stars, **217** contributions in the last year, a longest streak of **7** days and **1** follower.
+**11** public repositories, **0** stars, **213** contributions in the last year, a longest streak of **7** days and **1** follower.
 <!--/STATS-->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AgusBAlvarez&show_icons=true&theme=shadow_red&title_color=a855f7&icon_color=a855f7&text_color=ddd6fe&bg_color=1e1b4b&hide_border=true)
